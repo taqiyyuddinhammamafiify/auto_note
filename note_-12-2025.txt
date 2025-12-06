@@ -1,5 +1,5 @@
 === Notes for -12-2025 === 
  
 - Summary: Testing Github
-- What I learned today: 
-- Next steps: 
+- What I learned today: Git Push 
+- Next steps: Practicing
